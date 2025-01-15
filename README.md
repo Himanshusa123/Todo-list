@@ -26,4 +26,4 @@ A simple and responsive To-Do application built with React and Redux, featuring 
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/Himanshusa123/To-do-list.git)
+   git clone (https://github.com/Himanshusa123/Todo-list.git)
